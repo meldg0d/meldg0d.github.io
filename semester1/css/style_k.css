@@ -52,6 +52,14 @@ a:hover {
     color: var(--secondary);
 }
 
+.navbar-brand {
+    width: fit-content;
+}
+
+.logo{
+    width: 250px;
+}
+
 span {
     font-weight: bolder;
 }
